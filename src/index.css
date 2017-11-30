@@ -1,0 +1,66 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+/* .redbox{
+    border:1px solid #cc363c;
+      border-top: 2px solid #e59a9d;
+      color:#cc363c;         
+}
+.graybox{
+  border: 1px solid #d5d5d5;
+  border-top: 2px solid #eaeaea;
+  color:#484747;
+} */
+.am-tab-bar-tab-title{
+  color:#ab927d
+}
+.am-tabs-default-bar-tab{
+  font-size: 10px;
+}
+.am-modal-content{
+  text-align:start ;
+}
+/* html { overflow: hidden; } */
+.scrollBar::-webkit-scrollbar {/*隐藏滚轮*/
+  display: none;
+  }
+.brandBoxBar::-webkit-scrollbar {/*隐藏滚轮*/
+  display: none;
+  }
+
+.productStyle::-webkit-scrollbar {/*隐藏滚轮*/
+    display: none;
+    }
+    .boxStyle::-webkit-scrollbar {/*隐藏滚轮*/
+      display: none;
+      }
+.am-carousel-wrap{
+  box-sizing: border-box;
+padding-left: 260px;
+padding-bottom: 10px;
+}
+.my-carouse{
+  height: 160px;
+}
+.slider-list{
+  height: 150px;
+}
+.am-tabs-default-bar-tab{
+  color:#6a6a6a;
+}
+.SingleInput{ 
+height:55px;
+width:270px;
+margin:0 auto;
+box-sizing:border-box;
+border-bottom:1px solid #f3f3f3;
+}
+.logininput{
+    height:46px;
+    width:270px;
+    font-size:14px;
+    color:#845f3f;
+}
+

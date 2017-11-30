@@ -1,0 +1,23 @@
+/* #tab-bar.demo {
+  display: flex;
+  flex-direction: column;
+}
+#tab-bar .demoName {
+  height: 40px;
+}
+#tab-bar .demo-preview-item .am-tab-bar {
+  background-color: white;
+}
+.am-tab-bar-tab-title{
+  color: red;
+}
+.test{
+  justify-content: space-between;
+  position: relative;
+  top:4px;
+  box-sizing: border-box;
+} */
+.test{
+ float: left;
+ /* color:  */
+}
