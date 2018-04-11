@@ -56,6 +56,9 @@ render() {
 
 
 ### GIF图展示：
+
+**由于GitHub加载gif缓慢，请移步到我的博客页面查看：** [传送门](http://vince.xin/article/5acc352a6b78214ab8ac58c1)
+
 - 主页：
 
 ![image](http://static.vince.xin/HIUHIUHWIUF11.gif)
